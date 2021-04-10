@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/app.js": "/app.js",
+    "/category.js": "/category.js",
+    "/dashboard.js": "/dashboard.js",
+    "/login.js": "/login.js",
+    "/menu.js": "/menu.js",
+    "/register.js": "/register.js",
+    "/role.js": "/role.js",
+    "/sub_category.js": "/sub_category.js",
+    "/vendors~login.js": "/vendors~login.js",
+    "/vendors~category~menu~role~sub_category.js": "/vendors~category~menu~role~sub_category.js",
+    "/test.js": "/test.js"
+}
